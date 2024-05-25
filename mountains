@@ -1,0 +1,4 @@
+{:desc "You're near the mountains."
+ :exits {:east :prairie :north :lake}
+ :items #{:hammer}
+ }
