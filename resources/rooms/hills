@@ -1,0 +1,4 @@
+{:desc "You're in the land with many hills."
+ :exits {:south :desert :west :forest}
+ :items #{:kettle}
+ }
