@@ -1,0 +1,4 @@
+{:desc "You're in the desert1."
+ :exits {:north :hills :west :prairie}
+ :items #{:torch}
+ }

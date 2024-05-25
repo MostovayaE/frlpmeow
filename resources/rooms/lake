@@ -1,0 +1,4 @@
+{:desc "You're near the lak1e."
+ :exits {:east :forest :south :mountains}
+ :items #{:sword}
+ }

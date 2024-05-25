@@ -1,0 +1,4 @@
+{:desc "You're on the prai1ries."
+ :exits {:east :desert :north :forest :west :mountains}
+ :items #{:crossbow}
+ }
