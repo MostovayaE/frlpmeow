@@ -1,0 +1,2 @@
+{:desc "You're in the big tavern located near the main road leading to a small town in the north"
+ :exits {:city :city}}

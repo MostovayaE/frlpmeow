@@ -1,0 +1,3 @@
+{:desc "You're in the small city standing on the bank of a fast-flowing river. You need to decide how you want to continue your journey - 
+by ship or by road"
+ :exits {:road :forest :ship :shipwreck}}

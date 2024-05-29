@@ -1,0 +1,14 @@
+{:desc "Entering the tavern you see several fighters beating each other. Nearby, tavern patrons place bets on who will win."
+ :option1 "Bet on yourself and get into a fight"
+ :option2 "Bet on one of the fighters"
+ :option3 "Just see"
+ :action1 "you can easily defeat other fighters, but some wounds will hurt for a long time"
+ :action2 "Several times the fighter you bet on wins, but in the last fight he gets knocked out. As a result, you went into a slight minus."
+ :action3 "You have fun all evening, watching the battles take place and laughing at unsuccessful bets"
+ :number-with-item 2
+ :number-with-heal 1
+ :number-with-move 0
+ :number-with-points 0
+ :found-item #{:violin}
+ }
+ 

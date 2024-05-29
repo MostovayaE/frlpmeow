@@ -1,0 +1,3 @@
+{:desc "You are a mercenary who earned a little money on your last campaign. now you want to settle in the capital city. But getting there won't be easy."
+ :items #{:sword :armour}
+ :exits {:tavern :tavern}}

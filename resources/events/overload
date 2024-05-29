@@ -1,0 +1,13 @@
+{:desc "The ship hit rocks and is now flooded with water. You need to jump into the water and swim to the shore."
+ :option1 "Drop everything and swim"
+ :option2 "Drop only armour and swim"
+ :option3 "Try to swim to the shore keeping all your things"
+ :action1 "You easily swim to the shore, but you only have a little money left sewn into your clothes."
+ :action2 "A sword, a wallet and other things prevent you from swimming, but you get to the shore"
+ :action3 "It is almost impossible to swim while holding a bag of armor and other things. You almost can't stand it"
+ :number-with-item 2
+ :number-with-heal 1
+ :number-with-move 0
+ :number-with-points 0
+ :found-item #{:violin}
+ }

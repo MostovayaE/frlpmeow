@@ -1,0 +1,14 @@
+{:desc "You see three skeletons dancing to music playing by the fourth on the violin. What will you do?"
+ :option1 "dance with them"
+ :option2 "attack them"
+ :option3 "quietly go around"
+ :action1 "For several minutes you are spinning in a crazy dance of skeletons. When the music stops, there are no skeletons nearby, but you feel incredibly good."
+ :action2 "Skeletons easily break under your blows and after a few moments a pile of bones and a violin lie in front of you."
+ :action3 "you secretly sneak past them, making your way to the village, but their music can still be heard for a long time."
+ :number-with-item 2
+ :number-with-heal 1
+ :number-with-move 0
+ :number-with-points 0
+ :found-item #{:violin}
+ }
+ 

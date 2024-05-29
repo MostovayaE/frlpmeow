@@ -1,0 +1,13 @@
+{:desc "Two guards stop you near the city gates and demand that you pay a lot of money for the opportunity to enter the city. You understand that they are demanding this money illegally."
+ :option1 "Fight against this guards"
+ :option2 "Pay them"
+ :option3 "Threaten them to tell everything to the mayor"
+ :action1 "You easily defeat inexperienced guards and disappear into the crowd while they lie on the ground calling for help"
+ :action2 "the guards smile as they take the money and let you into the city"
+ :action3 "Upon hearing the threat, they take you aside. One of them tries to stealthily stab you. Soon you leave them lying in the alley, having collected their previous taxes."
+ :number-with-item 2
+ :number-with-heal 1
+ :number-with-move 0
+ :number-with-points 0
+ :found-item #{:violin}
+ }

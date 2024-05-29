@@ -1,4 +1,3 @@
-{:desc "You're in the ancient forest."
- :exits {:east :hills :west :lake :south :prairie}
- :items #{:boots}
+{:desc "You're in the ancient forest in the few miles from the capital"
+ :exits {:capital :capital}
  }
